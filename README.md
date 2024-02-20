@@ -1,2 +1,2 @@
-# DSML_Practise
- This repository stems from the online courses I completed on Udemy, where I utilized Python for tackling Data Science challenges.
+# DS ML Practise
+ This repository stems from the online courses I completed on Udemy, where I utilized Python for tackling Data Science challenges. The instructor, Jose Portilla, who is a Data Scientist, delivered the course content, making it highly valuable. I intend to share only the iPython notebooks I've practiced with, uploading them as I complete them. This approach aids me in monitoring my learning progress and serves as a quick reference while I'm working. For more details, refer to: [Course link](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
